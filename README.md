@@ -40,4 +40,4 @@ This close is effectively a broadcast signal to the senders.
 
 ## License
 
-TBD
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
